@@ -72,7 +72,8 @@
 ## 🎯 Interests
 
 - AI for Social Good 🧠
-- Edge AI & Embedded ML 🔌
+- Blockchain & Smart Contracts ⛓️  
+- Cybersecurity & Ethical Hacking 🔐  
 - Scalable Web Apps 🌐
 - Optimization & Algorithms 📊
 
