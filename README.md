@@ -14,8 +14,10 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/-YOLOv8-FF6F61?style=flat&logo=ultralytics&logoColor=white"/>
