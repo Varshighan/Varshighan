@@ -1,94 +1,95 @@
-# 👋 Hi, I'm Rohith Varshighan S
+# Hi, I'm Rohith Varshighan S 👋
 
-🎓 Pre-Final-year B.Tech student in Information Technology at SSN College of Engineering.  
-💡 Passionate about solving real-world problems using machine learning, computer vision, full-stack web development, and optimization algorithms.
+### B.Tech Information Technology @ SSN College of Engineering
 
----
-
-## 🧰 Tech Stack & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-YOLOv8-FF6F61?style=flat&logo=ultralytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-</div>
+I build **AI-powered and full-stack systems** that solve real-world problems across **Generative AI, computer vision, cybersecurity, blockchain, and intelligent applications**.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚧 [Automated Crack Detection & Depth Estimation](https://github.com/Varshighan/crack-detection-depth-estimation)
-> Detect cracks and estimate severity in infrastructure using YOLOv8, Canny edge detection, and real-time video feed processing.
+**Languages**  
+Python · JavaScript · TypeScript · Dart · Java · Solidity
 
-- Real-time crack detection and segmentation
-- Edge localization with OpenCV
-- Streamlit and OpenCV interfaces
-- Scalable, deployable solution for infrastructure monitoring
+**AI / ML**  
+PyTorch · TensorFlow · Scikit-learn · YOLOv8 · OpenCV · RAG · LLMs
 
-### 🎯 [EventSphere – Smart Event Management Platform](https://github.com/Varshighan/event-management-system)
-> A full-featured, intelligent event management platform built for colleges.
+**Development**  
+React · Node.js · Express.js · FastAPI · Flask · Flutter · Streamlit
 
-- Role-based login (admin, organizer, student)
-- Event clash detection using DFS
-- Upcoming event suggestions with B+ Tree
-- Admin analytics, PDF reports, and email automation
+**Databases & Tools**  
+MongoDB · MySQL · SQLite · Firebase · Redis · Docker · Git
 
-### 🩸 [Blood Bank Management Platform](https://github.com/Varshighan/blood-bank-platform)
-> A cross-platform app for hospitals to manage blood inventory and donor requests.
-
-- Flutter + Flask + SQLite architecture
-- Inventory, donor logging, and inter-hospital coordination
-- Real-time request tracking and donation history
-
-### 📝 [TextZip – Document Compression Web App](https://github.com/Varshighan/textzip)
-> Upload plain `.txt` documents and get a compressed version right in your browser.
-
-- Lightweight, client-side compression
-- Instant file preview and download
-- Built in React with custom compression logic
+**Blockchain**  
+Solidity · Hardhat · ethers.js · Polygon
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshighan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshighan&layout=compact&theme=tokyonight" height="150"/>
-</p>
+### 🔐 [ATLAS — Autonomous Compliance Intelligence Platform](https://github.com/Varshighan/ATLAS-Autonomous-Compliance-Intelligence-Platform)
+
+AI-powered compliance platform for detecting, analysing, and managing regulatory violations across enterprise data.
+
+- Built **LLM + RAG** workflows for compliance analysis
+- Implemented vector search using **ChromaDB + Sentence Transformers**
+- Added autonomous monitoring, risk analysis, and remediation workflows
+- Designed **SHA-256 hash-chain evidence trails** for tamper-evident auditing
+- **Stack:** FastAPI · React · RAG · LLMs · ChromaDB · Python
+
+### ⚡ [IntentForge — Programmable Digital Rupee](https://github.com/Varshighan/IntentForge)
+
+Intent-driven financial platform that converts natural-language spending rules into programmable transaction policies.
+
+- Converts user intent into structured financial rules using AI
+- Enforces spending policies through a deterministic validation engine
+- Implemented **Solidity smart contracts** for on-chain intent management
+- Supports category, merchant, amount, location, and time-based restrictions
+- **Stack:** React · FastAPI · Python · Solidity · Hardhat · ethers.js
+
+### 🛡️ [Network & Cybersecurity Dashboard](https://github.com/Varshighan/Network-and-Cybersecurity-Dashboard)
+
+Full-stack cybersecurity monitoring platform for analysing network activity, security policies, and potential violations.
+
+- Real-time activity and policy-violation monitoring
+- JWT-based administrator authentication
+- Bandwidth and process monitoring with configurable policies
+- Alert management, analytics, and automated reporting
+- **Stack:** FastAPI · React · Tailwind CSS · SQLite · JWT · Recharts
+
+### 🧠 Skull-to-Face Reconstruction
+
+Research project exploring **3D facial reconstruction from skull geometry** using deep learning and point-cloud processing.
+
+- Developed a Template Deformation Network using **DGCNN / EdgeConv**
+- Predicted facial geometry through deformation-based decoding
+- Optimized reconstruction using **Chamfer Distance**
+- Built preprocessing, visualization, and interactive exploration pipelines
+- **Stack:** PyTorch · DGCNN · Point Clouds · 3D Reconstruction · Streamlit
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Runner Up** — IITM Visa Hackathon, 2026
+- 🏆 **Winner** — TEXUS NXTGEN FinTrust Hackathon, 2026
+- 🏅 **4th Place** — Citi Blockchain Hackathon, 2025
+- 🏛️ **CIVHACK 360** — AI-based Heritage Site Health Monitoring
 
 ---
 
 ## 🎯 Interests
 
-- AI for Social Good 🧠
-- Blockchain & Smart Contracts ⛓️  
-- Cybersecurity & Ethical Hacking 🔐  
-- Scalable Web Apps 🌐
-- Optimization & Algorithms 📊
+`Generative AI` · `RAG & LLMs` · `Computer Vision` · `Cybersecurity`  
+`Blockchain` · `Distributed Systems` · `Optimization` · `Intelligent Applications`
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- 📧 rohithvarshighan27@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohith-varshighan-s/)  
-
-
----
+📧 **[rohithvarshighan27@gmail.com](mailto:rohithvarshighan27@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/rohith-varshighan-s/)**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varshighan&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Varshighan&style=flat-square" alt="Profile Views" />
 </p>
